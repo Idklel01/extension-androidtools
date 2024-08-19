@@ -3,5 +3,5 @@
 	<uses-permission android:name="android.permission.VIBRATE" />
 	<uses-permission android:name="android.permission.WAKE_LOCK" />
 	<uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
-	<android target-sdk-version="30"/>
+	<uses-sdk android:targetSdkVersion="30"/>
 </manifest>
